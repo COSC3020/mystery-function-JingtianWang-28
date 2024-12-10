@@ -17,3 +17,7 @@ function mystery(a) {
     If it is less than, the first element is returned.
 }
 ```
+
+///
+
+This function receives data in the form of a list and uses recursion to find the maximum element starting from the second element. If there is only one element, it directly returns that element as the maximum value.
