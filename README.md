@@ -22,4 +22,6 @@ function mystery(a) {
 
 This function receives data in the form of a list and uses recursion to find the maximum element starting from the second element. If there is only one element, it directly returns that element as the maximum value.
 
-After recursion, it compares the first element of the array with the maximum value of the rest of the array. It then returns the element with the greater value.
+After recursion, it compares the first element of the array with the maximum value of the rest of the array. 
+
+When given an arrayIt, it will return the maximum value.
